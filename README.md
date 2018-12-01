@@ -1,2 +1,2 @@
-# Template slide
+# 将棋
 
